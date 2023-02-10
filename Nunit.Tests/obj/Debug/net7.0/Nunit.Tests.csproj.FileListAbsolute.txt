@@ -1,0 +1,6 @@
+C:\Users\SMandlole\6-PPM\Nunit.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\SMandlole\6-PPM\Nunit.Tests\obj\Debug\net7.0\Nunit.Tests.csproj.AssemblyReference.cache
+C:\Users\SMandlole\6-PPM\Nunit.Tests\obj\Debug\net7.0\Nunit.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SMandlole\6-PPM\Nunit.Tests\obj\Debug\net7.0\Nunit.Tests.AssemblyInfoInputs.cache
+C:\Users\SMandlole\6-PPM\Nunit.Tests\obj\Debug\net7.0\Nunit.Tests.AssemblyInfo.cs
+C:\Users\SMandlole\6-PPM\Nunit.Tests\obj\Debug\net7.0\Nunit.Tests.csproj.CoreCompileInputs.cache

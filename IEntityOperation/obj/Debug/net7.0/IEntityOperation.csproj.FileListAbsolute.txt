@@ -1,0 +1,17 @@
+c:\Users\SMandlole\6-PPM\IEntityOperation\obj\Debug\net7.0\IEntityOperation.csproj.AssemblyReference.cache
+c:\Users\SMandlole\6-PPM\IEntityOperation\obj\Debug\net7.0\IEntityOperation.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SMandlole\6-PPM\IEntityOperation\obj\Debug\net7.0\IEntityOperation.AssemblyInfoInputs.cache
+c:\Users\SMandlole\6-PPM\IEntityOperation\obj\Debug\net7.0\IEntityOperation.AssemblyInfo.cs
+c:\Users\SMandlole\6-PPM\IEntityOperation\obj\Debug\net7.0\IEntityOperation.csproj.CoreCompileInputs.cache
+C:\Users\SMandlole\6-PPM\IEntityOperation\bin\Debug\net7.0\IEntityOperation.deps.json
+c:\Users\SMandlole\6-PPM\IEntityOperation\bin\Debug\net7.0\IEntityOperation.dll
+c:\Users\SMandlole\6-PPM\IEntityOperation\bin\Debug\net7.0\IEntityOperation.pdb
+c:\Users\SMandlole\6-PPM\IEntityOperation\bin\Debug\net7.0\PPM.DAL.dll
+c:\Users\SMandlole\6-PPM\IEntityOperation\bin\Debug\net7.0\PPM.MODEL.dll
+c:\Users\SMandlole\6-PPM\IEntityOperation\bin\Debug\net7.0\PPM.MODEL.pdb
+c:\Users\SMandlole\6-PPM\IEntityOperation\bin\Debug\net7.0\PPM.DAL.pdb
+C:\Users\SMandlole\6-PPM\IEntityOperation\obj\Debug\net7.0\IEntityOperation.csproj.CopyComplete
+c:\Users\SMandlole\6-PPM\IEntityOperation\obj\Debug\net7.0\IEntityOperation.dll
+c:\Users\SMandlole\6-PPM\IEntityOperation\obj\Debug\net7.0\refint\IEntityOperation.dll
+c:\Users\SMandlole\6-PPM\IEntityOperation\obj\Debug\net7.0\IEntityOperation.pdb
+C:\Users\SMandlole\6-PPM\IEntityOperation\obj\Debug\net7.0\ref\IEntityOperation.dll
